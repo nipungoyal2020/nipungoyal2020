@@ -1,0 +1,49 @@
+.body_backgorund {
+	background-image: url("https://www.cnet.com/a/img/j7SdHs9Ac8coHkwTOcJG1DYcQI4=/940x0/2019/04/19/f20d0d6a-1781-49a4-90ab-e285109b65b2/avengers-endgame-imax-poster-crop.png");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas {
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
+
+h2 {
+	background: #337ab7;
+	color: white;
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+}
+
+h3 {
+	display: inline-block;
+}
+
+span {
+	font-size: 22px;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+#download {
+	background: #5bc0de;
+	float: left;
+	margin-top: 25px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+#head_info {
+	background: #d9534f;
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
